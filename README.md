@@ -52,6 +52,6 @@ Enter a sentence to search: I wrot ths assignmet mysel
 - "assignmet"  ❌ Not Found!  Suggestions: assigns, assignments, assimilate.
 
 - "mysel"      ❌ Not Found!  Suggestions: mys, myrtles, myself.
-
+```
 
 small note: this project I finished it at may 2025 and I put it in a repo at sep. 2025
